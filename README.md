@@ -12,8 +12,7 @@
   
 <br>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=KrutikaBhatt&theme=dark)
-
+![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=KrutikaBhatt&theme=dracula)]
 
 ## Languages and Tools
 
