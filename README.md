@@ -1,9 +1,10 @@
+ 
 <h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=blue&size=25&lines=Hello!!!..">
   </a>
 </h1>
-
+<h2><b>I'm Krutika Bhatt! Innovating new and creative ideas is my hobby</b><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KrutikaBhatt&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61" />
 
 
